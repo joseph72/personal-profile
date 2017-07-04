@@ -1,0 +1,54 @@
+button {
+	align-content: center;
+	width: 75%;
+}
+
+
+	
+}
+
+.form-group{
+	margin-top:100;
+}
+
+
+	/* Footer styles
+-------------------------------------------------- */
+#footer{
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+
+  /* Set the fixed height of the footer here */
+  height: 90px;
+  background: 
+  /* color overlay */ 
+    linear-gradient(
+      rgba(240, 212, 0, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    /* image to overlay */
+    url("bg.jpg");
+    margin-top:100px;
+}
+
+
+/* Custom footer CSS
+-------------------------------------------------- */
+
+
+.footertext {
+  color: #ffffff;
+}
+
+#footer .footer-wrapper{
+	padding-top: 0px; 
+ 	margin-right: 200px;
+    margin-left: 200px;
+
+}
+
+.jumbo{
+   
+	background-color: rgba(0,0,255,0.2);
+}
